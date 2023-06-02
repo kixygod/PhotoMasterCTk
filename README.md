@@ -1,8 +1,8 @@
 # Photo Master
 
 <p align="center">
-  <img width="500" src="/screenshots/dark.png">
-  <img width="500" src="/screenshots/light.png">
+  <img width="500" src="https://raw.githubusercontent.com/kixygod/PhotoMasterCTk/master/screenshoots/dark.png">
+  <img width="500" src="https://raw.githubusercontent.com/kixygod/PhotoMasterCTk/master/screenshoots/light.png">
 </p>
 Данное приложение было разработано на языке Python с помощью библиотеки Custom Tkinter. Основная задача данного приложения быстрое и простое редактирование базовых параметров любого изображения.
 Руководство использования:
